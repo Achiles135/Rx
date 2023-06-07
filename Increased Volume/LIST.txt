@@ -1,0 +1,50 @@
+-----> Own version of syscalls with payloads [] - Syswhispers3 --> Use for all generated
+
+-'File-less' shellcode stager (socket) - loaded into memory --> HTTPS - C++ [🗸]
+
+-'File-less' shellcode stager (Winhttp) - loaded (AND ENCRYPTED) into memory --> HTTPS - C++ [] - https://github.com/kleiton0x00/RemoteShellcodeExec/tree/main
+
+- AMSI-Bypass Powershell Command [🗸]
+
+- FUD Reverse Shell (socket) - C++ [🗸]
+
+- DLL AMSI Unhooking (any DLL) [] - https://github.com/blackmamba442/OffensiveCpp/blob/main/AV%20EDR%20Evasion/Unhooking/Unhook_ntdll.cpp
+
+- ETW bypass [] - https://github.com/momika233/AM0N-Eye/tree/main/BOF's/ETW
+
+- Powershell Cradles for C# tools (converted) to be loaded into memory [] - CradleCrafter / 
+
+------------------------------------
+
+- Process hollowing []
+
+- PPID Spoofing []
+
+------------------------------------
+
+
+- APC Thread Injection / QueueUserAPC [] - https://github.com/blackmamba442/WinAPI-RedBlue/tree/main/Process%20Injection/APC%20Thread%20Injection
+
+- EarlyBird APC [] - https://github.com/blackmamba442/WinAPI-RedBlue/tree/main/Process%20Injection/EarlyBird%20APC
+
+------------------------------------
+
+- *** Thread Hijhacking [] - https://github.com/blackmamba442/WinAPI-RedBlue/tree/main/Process%20Injection/Thread%20Hijacking 
+
+- CreateRemoteThread DLL [] - https://github.com/blackmamba442/WinAPI-RedBlue/tree/main/Process%20Injection/CreateRemoteThread%20DLL
+
+- DLL Injection [] - Ippsec
+
+- DLL Side-Loading []
+
+------------------------------------
+
+- String obfuscation? []
+
+------------------------------------
+
+- VBA stomping [] - EvilClippy
+
+
+
+

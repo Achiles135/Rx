@@ -1,0 +1,24 @@
+- ETW Bypass
+
+- AMSI Bypass + Unhooking
+
+- Indirect syscalls
+
+- Sleep obfuscation
+
+- String obfuscation
+
+- Multiple Injection Techniques (DLL, APC, Thread)
+
+- Staged / Non-Staged Payloads
+
+- Malicious Documents with Staged / Non-staged payloads
+
+- Multiple formats (VBS / VBA / JS / .NET / .EXE / .HTA)
+
+- Custom C2
+
+---------------------------------------------------------------
+
+https://tbhaxor.com/windows-process-injection-using-asynchronous-threads-queueuserapc/
+
