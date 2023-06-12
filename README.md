@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-	GARDEN OF EDEN (GEO) --> :MAIN FEATURES:<br />
+		☯ GARDEN OF EDEN (GEO) --> :MAIN FEATURES: 	☯<br />
 </h2>
 
 
