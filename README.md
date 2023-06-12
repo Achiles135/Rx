@@ -27,6 +27,7 @@ Targeted + KnownDLL Unhooking<br />
 
 ### ♥ Templates (For Different Engagements)
 APC (Thread Injection / Earlybird)<br />
+(more to come..)
 
 ### ♥ Persistence
 Reflective DLL Shellcode Stager (with above features)
