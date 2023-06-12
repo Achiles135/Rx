@@ -1,11 +1,10 @@
 <h1 align="center">
-	GARDEN OF EDEN<br />
+	LIQUID SNAKE MALWARE ARSENAL<br />
 </h1>
 
 <h1 align="center">
 	<img width="350" src="https://github.com/blackmamba442/Rx/assets/97571183/761d7c05-aac2-4a37-8e8e-495a508361c5" alt="deathcomes4usall">
 </h1>
-
 
 ## MAIN FEATURES
 
