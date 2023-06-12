@@ -8,4 +8,8 @@ LIQUID SNAKE REPOSITORY OF MALWARE & ATTACK CHAIN SEQUENCES
 
 
 ## FEATURES
-fdgdfg
+AMSI Bypass<br />
+ETW Bypass<br />
+WDLP Bypass
+
+asds
