@@ -1,15 +1,32 @@
 <h1 align="center">
-	<img width="200" src="https://github.com/blackmamba442/Rx/assets/97571183/761d7c05-aac2-4a37-8e8e-495a508361c5" alt="Material Bread logo">
+	GARDEN OF EDEN<br />
 </h1>
 
 <h1 align="center">
-LIQUID SNAKE REPOSITORY OF MALWARE & ATTACK CHAIN SEQUENCES
+	<img width="350" src="https://github.com/blackmamba442/Rx/assets/97571183/761d7c05-aac2-4a37-8e8e-495a508361c5" alt="deathcomes4usall">
 </h1>
 
 
-## FEATURES
-AMSI Bypass<br />
-ETW Bypass<br />
-WDLP Bypass
+## MAIN FEATURES
 
-asds
+### ♥ Loaders / Stagers
+'File-Less' Shellcode Stager (Socket or WinHTTP)<br />
+Simple Reverse Shell (Socket)
+
+### ♥ Bypass / Evasion
+AMSI Bypass (Powershell + .Exe)<br />
+ETW Bypass<br />
+WDLP Bypass<br />
+Sandbox Evasion (Memory Check + DLL Check)<br />
+AES Encrypted Shellcode<br />
+Sleep Obfuscation + RC4 Memory Encryption
+Direct + Indirect Syscalls
+
+### ♥ Unhooking
+Targeted + KnownDLL Unhooking<br />
+
+### ♥ Templates (For Different Engagements)
+APC (Thread Injection / Earlybird)<br />
+
+### ♥ Persistence
+Reflective DLL Shellcode Stager (with above features)
