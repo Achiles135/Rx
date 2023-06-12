@@ -11,11 +11,11 @@
 </h2>
 
 
-### ♥ Loaders / Stagers
+### ☢ Loaders / Stagers
 - 'Fileless' Shellcode Stager (Socket or WinHTTP)<br />
 - Simple Reverse Shell (Socket)
 
-### ♥ Bypass / Evasion
+### ☢ Bypass / Evasion
 - AMSI + ETW + WDLP Bypass<br />
 - Sandbox Evasion (Memory Check + DLL Check)<br />
 - AES Encrypted Shellcode<br />
@@ -25,10 +25,10 @@
 - Signed Executable
 
 
-### ♥ Unhooking
+### ☢ Unhooking
 - Targeted + KnownDLL Unhooking<br />
 
-### ♥ Templates (For Different Engagements)
+### ☢ Templates (For Different Engagements)
 - APC (Thread Injection + Earlybird)<br />
 - Thread Hijhacking<br />
 - CreateRemoteThread DLL<br />
@@ -38,5 +38,5 @@
 
 (more to come..)
 
-### ♥ Persistence
+### ☢ Persistence
 - Reflective DLL Shellcode Stager (with above features)
