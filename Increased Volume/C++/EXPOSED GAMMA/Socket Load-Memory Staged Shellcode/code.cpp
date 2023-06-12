@@ -164,9 +164,9 @@ void getit(char* host, char* port, char* resource) {
 
 int main(int argc, char** argv) {
 
-    // Validate the parameters
+    
     if (argc != 4) {
-        printf("[+] Usage: %s <RemoteIP> <RemotePort> <Resource>\n", argv[0]);
+        printf("[+] Usage: %s <RemoteIP> <RemotePort> <Resource>\n", argv[0]); //hardcode these arguments
         return 1;
     }
 
