@@ -26,7 +26,7 @@ Direct + Indirect Syscalls
 Targeted + KnownDLL Unhooking<br />
 
 ### ♥ Templates (For Different Engagements)
-APC (Thread Injection / Earlybird)<br />
+APC (Thread Injection + Earlybird)<br />
 (more to come..)
 
 ### ♥ Persistence
