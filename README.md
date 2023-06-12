@@ -40,3 +40,7 @@
 
 ### ☢ Persistence
 - Reflective DLL Shellcode Stager (with above features)
+
+<h1 align="center">
+	<img width="500" src="https://github.com/blackmamba442/Rx/blob/main/Malicious%20APIs.png" alt="deathcomes2usall">
+</h1>
