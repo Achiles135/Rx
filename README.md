@@ -1,5 +1,5 @@
 <h1 align="center">
-	PROJECT LIQUID SNAKE<br />
+	OPERATION LIQUID SNAKE<br />
 </h1>
 
 <h1 align="center">
