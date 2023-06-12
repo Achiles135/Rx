@@ -10,7 +10,7 @@
 ## MAIN FEATURES
 
 ### ♥ Loaders / Stagers
-- 'File-Less' Shellcode Stager (Socket or WinHTTP)<br />
+- 'Fileless' Shellcode Stager (Socket or WinHTTP)<br />
 - Simple Reverse Shell (Socket)
 
 ### ♥ Bypass / Evasion
