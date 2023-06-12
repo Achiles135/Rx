@@ -10,33 +10,31 @@
 ## MAIN FEATURES
 
 ### ♥ Loaders / Stagers
-'File-Less' Shellcode Stager (Socket or WinHTTP)<br />
-Simple Reverse Shell (Socket)
+- 'File-Less' Shellcode Stager (Socket or WinHTTP)<br />
+- Simple Reverse Shell (Socket)
 
 ### ♥ Bypass / Evasion
-AMSI Bypass (Powershell + .Exe)<br />
-ETW Bypass<br />
-WDLP Bypass<br />
-Sandbox Evasion (Memory Check + DLL Check)<br />
-AES Encrypted Shellcode<br />
-Sleep Obfuscation + RC4 Memory Encryption<br />
-Direct + Indirect Syscalls<br />
-PPID Spoofing<br />
-Signed Executable
+- AMSI + ETW + WDLP Bypass<br />
+- Sandbox Evasion (Memory Check + DLL Check)<br />
+- AES Encrypted Shellcode<br />
+- Sleep Obfuscation + RC4 Memory Encryption<br />
+- Direct + Indirect Syscalls<br />
+- PPID Spoofing<br />
+- Signed Executable
 
 
 ### ♥ Unhooking
-Targeted + KnownDLL Unhooking<br />
+- Targeted + KnownDLL Unhooking<br />
 
 ### ♥ Templates (For Different Engagements)
-APC (Thread Injection + Earlybird)<br />
-Thread Hijhacking<br />
-CreateRemoteThread DLL<br />
-Process Hollowing<br />
-Threadless Injection<br />
+- APC (Thread Injection + Earlybird)<br />
+- Thread Hijhacking<br />
+- CreateRemoteThread DLL<br />
+- Process Hollowing<br />
+- Threadless Injection<br />
 
 
 (more to come..)
 
 ### ♥ Persistence
-Reflective DLL Shellcode Stager (with above features)
+- Reflective DLL Shellcode Stager (with above features)
